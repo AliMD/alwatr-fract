@@ -69,9 +69,9 @@
     "postcss-preset-env": "^9.3.0",
     "prettier": "^3.2.5",
     "prettier-plugin-tailwindcss": "^0.5.11",
-    "tailwindcss": "^3.4.1",
+    "tailwindcss": "^3.4.4",
     "ts-lit-plugin": "^2.0.2",
-    "tslib": "^2.6.2",
+    "tslib": "^2.6.3",
     "typescript": "^5.3.3",
     "workbox-build": "^7.0.0"
   },

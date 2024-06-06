@@ -39,7 +39,7 @@
     "@alwatr/i18n": "workspace:^",
     "@alwatr/signal": "^2.0.5",
     "@alwatr/util": "^1.4.1",
-    "tslib": "^2.6.2"
+    "tslib": "^2.6.3"
   },
   "devDependencies": {
     "@alwatr/type": "^1.2.4"
