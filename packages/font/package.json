@@ -16,7 +16,7 @@
   ],
   "main": "vazirmatn.css",
   "author": "S. Ali Mihandoost <ali.mihandoost@gmail.com>",
-  "license": "MIT",
+  "license": "AGPL-3.0-only",
   "files": [
     "**/*.woff*",
     "**/*.css",
